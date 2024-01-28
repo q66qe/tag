@@ -394,7 +394,6 @@ async def start_msg(app, message):
         resize_keyboard=True, placeholder='استخراج جلسات'
       )
       await message.reply('''
-- تطوير @DevTokyo1
 - مرحـبـًا عـزيـزي {},
  في بوت استخـراج جلسات 
 - لبـدء استخـراج الجلسة اختـر الجلسـة بالاسفل.
